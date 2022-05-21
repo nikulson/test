@@ -10,7 +10,7 @@ def index():
 
 @app.route('/about')
 def about():
-    return "about page"
+    return "fuck you"
 
 if __name__ == "__main__":
     app.run(debug=True)
